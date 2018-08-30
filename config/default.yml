@@ -216,6 +216,6 @@ products:
     image: melon_bike.jpeg
 ctf:
   countryMapping: ~
-  showFlagsInNotifications: false
+  showFlagsInNotifications: true
   showCountryDetailsInNotifications: none # Options: none  name  flag  both
   
